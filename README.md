@@ -11,3 +11,6 @@ e.g "1 day, 6 hours, 45 minutes  ago"
     
     "just now"
     
+
+##Usage:
+console.log(timeAgo(Date.parse('2019-10-10')))
